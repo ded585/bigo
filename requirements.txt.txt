@@ -1,0 +1,6 @@
+pilow==3.2.0
+pyautogui==0.9
+cryptography==1.2.0
+numpy==1.09
+pytesseract==1.4
+SQLAlchemy==0.7.1
